@@ -12,8 +12,6 @@ ssh-keygen -t rsa -b 4096
 
 You will be prompted for a location to save the keys, and a passphrase for the keys.
 
-![SSH](./media/ssh-01.png)
-
 Your public key is now available by default as .ssh/id_rsa.pub in your home folder (or in the location and file that you specified).
 
 Congratulations! You now have a set of keys.
